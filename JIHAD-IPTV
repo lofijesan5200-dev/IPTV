@@ -25,6 +25,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Bangladesh",ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
+#EXTINF:-1  ,Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
@@ -51,6 +54,15 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1  ,Star Jalsha SD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1  ,StarPlus HD
+http://66.102.126.10:8000/play/a008/index.m3u8
+
+#EXTINF:-1  ,Star Jalsha HD s2
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Jalsha SD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
@@ -82,6 +94,15 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.bd@SD" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="General",RTV (720p)
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
+#EXTINF:-1  ,Sony AATH
+https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
+
+#EXTINF:-1  ,Sony TV
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1  ,Sony HD
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
@@ -91,7 +112,35 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/7T2-k2SePa.png", My Tv B
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  ,4K HD TV
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8
 
+#EXTINF:-1  ,Discovery
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1  ,Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1  ,Sony BBC Earth HD
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
+
+#EXTINF:-1  ,Sony Max HD
+https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1  ,Sony Max 2
+https://stream.ottplus.bd/live/max_2_abr/index.m3u8
+
+#EXTINF:-1  ,Zee Action
+https://stream.ottplus.live/live/zee_action_abr/index.m3u8
+
+#EXTINF:-1  ,Zee Bollywood
+https://stream.ottplus.bd/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1  ,ENT | DANGAL2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1  ,Peace TV Bangla (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Entertainment",Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
@@ -291,7 +340,8 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
-
+#EXTINF:-1  ,ZOOM
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
