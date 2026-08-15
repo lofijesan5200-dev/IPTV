@@ -11,3 +11,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Bangladesh",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision (720p)
+https://tvsen5.aynaott.com/banglavision/index.m3u8
